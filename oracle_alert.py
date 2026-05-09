@@ -1,7 +1,7 @@
 import requests, datetime
 
-TOKEN   = "YOUR_BOT_TOKEN_HERE"   # from BotFather
-CHAT_ID = "YOUR_CHAT_ID_HERE"     # from Step 2
+TOKEN   = "8701503237:AAHhvESJpBRb6cmEL19iZvfvMSCKOcmc1AU"   # from BotFather
+CHAT_ID = "1384968439"     # from Step 2
 
 def build_message():
     now = datetime.datetime.now().strftime("%d %b %Y, %I:%M %p IST")
